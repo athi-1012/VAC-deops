@@ -1,0 +1,60 @@
+DEVOPS:
+
+Athira@DESKTOP-T43JPDO MINGW64 ~/project (master)
+$ history
+    1  git config --global user.name "athira"
+    2  git -v
+    3  git config --global user.email "athiraasok1012@gmail.com"
+    4  mkdir project
+    5  cd project
+    6  git init
+    7  git clone https://github.com/athi-1012/Devops-vac.git
+    8  mkdir project
+    9  cd project
+   10  git init
+   11  ls
+   12  git clone https://github.com/athi-1012/Devops-vac.git
+   13  git clone https://github.com/athi-1012/Devops-vac.git
+   14  git config --global user.name "athira"
+   15  git config --global user.email "athiraasok1012@gmail.com"
+   16  git clone https://github.com/athi-1012/Devops-vac.git
+   17  mkdir project1
+   18  cd project1
+   19  git init
+   20  ls
+   21*
+   22  cd project1
+   23  ls
+   24  git status
+   25  git config --global user.name "athira"
+   26  git config --global user.email "athiraasok1012@gmail.com"
+   27  git clone https://github.com/athi-1012/VAC-devops.git
+   28  mkdir project
+   29  cd project
+   30  git init
+   31  ls
+   32  cd
+   33  git status
+   34  git checkout --project
+   35  git config --global user.name "athira"
+   36  git config --global user.email "athiraasok1012@gmail.com"
+   37  git clone https://github.com/athi-1012/VAC-deops.git
+   38  mkdir project
+   39  cd project
+   40  git init
+   41  ls
+   42  touch README.md
+   43  git add README.md
+   44  git commit -m "first commit"
+   45  git status
+   46  git init
+   47  ls
+   48  git remote add origin https://github.com/athi-1012/VAC-deops.git
+   49  ls
+   50  git push -u origin master
+   51  git push -u origin master
+   52  git log
+   53  git help --all
+   54  git status help --all
+   55  history
+
